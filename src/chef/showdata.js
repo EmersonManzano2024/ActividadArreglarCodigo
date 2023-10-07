@@ -10,7 +10,6 @@ document.addEventListener('DOMContentLoaded', function() {
         console.log('No hay empleados');
     }
 });
-    
 
 
 
